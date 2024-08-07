@@ -2,9 +2,9 @@
 
 Small python project to demonstrate the usage of a gamepad
 
-## Usage
+## Local Usage
 ```
 poetry install
 poetry shell
-python src/move_robot.py
+python gamepad_example/move_robot.py
 ```
