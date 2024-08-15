@@ -1,4 +1,4 @@
-# Gamepad-Nova-Example
+# Gamepad-Example
 
 Small python project to demonstrate the usage of a gamepad
 
